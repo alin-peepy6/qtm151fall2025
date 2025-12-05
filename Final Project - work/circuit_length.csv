@@ -1,60 +1,60 @@
-raceId,year,circuitId,name,circuit_name,circuit_length
-900,2014,1,Australian Grand Prix,Albert Park Grand Prix Circuit,5.303
-926,2015,1,Australian Grand Prix,Albert Park Grand Prix Circuit,5.303
-948,2016,1,Australian Grand Prix,Albert Park Grand Prix Circuit,5.303
-943,2015,32,Mexican Grand Prix,Autódromo Hermanos Rodríguez,4.304
-966,2016,32,Mexican Grand Prix,Autódromo Hermanos Rodríguez,4.304
-917,2014,18,Brazilian Grand Prix,Autódromo José Carlos Pace,4.309
-944,2015,18,Brazilian Grand Prix,Autódromo José Carlos Pace,4.309
-967,2016,18,Brazilian Grand Prix,Autódromo José Carlos Pace,4.309
-912,2014,14,Italian Grand Prix,Autodromo Nazionale di Monza,5.793
-938,2015,14,Italian Grand Prix,Autodromo Nazionale di Monza,5.793
-961,2016,14,Italian Grand Prix,Autodromo Nazionale di Monza,5.793
-902,2014,3,Bahrain Grand Prix,Bahrain International Circuit,5.412
-929,2015,3,Bahrain Grand Prix,Bahrain International Circuit,5.412
-949,2016,3,Bahrain Grand Prix,Bahrain International Circuit,5.412
-955,2016,73,European Grand Prix,Baku City Circuit,6.003
-904,2014,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4.655
-930,2015,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4.655
-952,2016,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4.655
-905,2014,6,Monaco Grand Prix,Circuit de Monaco,3.34
-931,2015,6,Monaco Grand Prix,Circuit de Monaco,3.337
-953,2016,6,Monaco Grand Prix,Circuit de Monaco,3.337
-911,2014,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,7.004
-937,2015,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,7.004
-960,2016,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,7.004
-906,2014,7,Canadian Grand Prix,Circuit Gilles Villeneuve,4.361
-932,2015,7,Canadian Grand Prix,Circuit Gilles Villeneuve,4.361
-954,2016,7,Canadian Grand Prix,Circuit Gilles Villeneuve,4.361
-916,2014,69,United States Grand Prix,Circuit of the Americas,5.513
-942,2015,69,United States Grand Prix,Circuit of the Americas,5.513
-965,2016,69,United States Grand Prix,Circuit of the Americas,5.513
-909,2014,10,German Grand Prix,Hockenheimring,4.574
-959,2016,10,German Grand Prix,Hockenheimring,4.574
-910,2014,11,Hungarian Grand Prix,Hungaroring,4.381
-936,2015,11,Hungarian Grand Prix,Hungaroring,4.381
-958,2016,11,Hungarian Grand Prix,Hungaroring,4.381
-913,2014,15,Singapore Grand Prix,Marina Bay Street Circuit,5.061
-939,2015,15,Singapore Grand Prix,Marina Bay Street Circuit,5.065
-962,2016,15,Singapore Grand Prix,Marina Bay Street Circuit,5.065
-907,2014,70,Austrian Grand Prix,Red Bull Ring,4.326
-933,2015,70,Austrian Grand Prix,Red Bull Ring,4.326
-956,2016,70,Austrian Grand Prix,Red Bull Ring,4.326
-901,2014,2,Malaysian Grand Prix,Sepang International Circuit,5.543
-927,2015,2,Malaysian Grand Prix,Sepang International Circuit,5.543
-963,2016,2,Malaysian Grand Prix,Sepang International Circuit,5.543
-903,2014,17,Chinese Grand Prix,Shanghai International Circuit,5.451
-928,2015,17,Chinese Grand Prix,Shanghai International Circuit,5.451
-950,2016,17,Chinese Grand Prix,Shanghai International Circuit,5.451
-908,2014,9,British Grand Prix,Silverstone Circuit,5.891
-934,2015,9,British Grand Prix,Silverstone Circuit,5.891
-957,2016,9,British Grand Prix,Silverstone Circuit,5.891
-915,2014,71,Russian Grand Prix,Sochi Autodrom,5.848
-941,2015,71,Russian Grand Prix,Sochi Autodrom,5.848
-951,2016,71,Russian Grand Prix,Sochi Autodrom,5.848
-914,2014,22,Japanese Grand Prix,Suzuka Circuit,5.807
-940,2015,22,Japanese Grand Prix,Suzuka Circuit,5.807
-964,2016,22,Japanese Grand Prix,Suzuka Circuit,5.807
-918,2014,24,Abu Dhabi Grand Prix,Yas Marina Circuit,5.554
-945,2015,24,Abu Dhabi Grand Prix,Yas Marina Circuit,5.554
-968,2016,24,Abu Dhabi Grand Prix,Yas Marina Circuit,5.554
+raceId,year,circuitId,name,circuit_name
+900,2014,1,Australian Grand Prix,Albert Park Grand Prix Circuit
+901,2014,2,Malaysian Grand Prix,Sepang International Circuit
+902,2014,3,Bahrain Grand Prix,Bahrain International Circuit
+903,2014,17,Chinese Grand Prix,Shanghai International Circuit
+904,2014,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya
+905,2014,6,Monaco Grand Prix,Circuit de Monaco
+906,2014,7,Canadian Grand Prix,Circuit Gilles Villeneuve
+907,2014,70,Austrian Grand Prix,Red Bull Ring
+908,2014,9,British Grand Prix,Silverstone Circuit
+909,2014,10,German Grand Prix,Hockenheimring
+910,2014,11,Hungarian Grand Prix,Hungaroring
+911,2014,13,Belgian Grand Prix,Circuit de Spa-Francorchamps
+912,2014,14,Italian Grand Prix,Autodromo Nazionale di Monza
+913,2014,15,Singapore Grand Prix,Marina Bay Street Circuit
+914,2014,22,Japanese Grand Prix,Suzuka Circuit
+915,2014,71,Russian Grand Prix,Sochi Autodrom
+916,2014,69,United States Grand Prix,Circuit of the Americas
+917,2014,18,Brazilian Grand Prix,Autódromo José Carlos Pace
+918,2014,24,Abu Dhabi Grand Prix,Yas Marina Circuit
+931,2015,6,Monaco Grand Prix,Circuit de Monaco
+932,2015,7,Canadian Grand Prix,Circuit Gilles Villeneuve
+929,2015,3,Bahrain Grand Prix,Bahrain International Circuit
+930,2015,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya
+928,2015,17,Chinese Grand Prix,Shanghai International Circuit
+926,2015,1,Australian Grand Prix,Albert Park Grand Prix Circuit
+927,2015,2,Malaysian Grand Prix,Sepang International Circuit
+933,2015,70,Austrian Grand Prix,Red Bull Ring
+934,2015,9,British Grand Prix,Silverstone Circuit
+936,2015,11,Hungarian Grand Prix,Hungaroring
+937,2015,13,Belgian Grand Prix,Circuit de Spa-Francorchamps
+938,2015,14,Italian Grand Prix,Autodromo Nazionale di Monza
+939,2015,15,Singapore Grand Prix,Marina Bay Street Circuit
+940,2015,22,Japanese Grand Prix,Suzuka Circuit
+941,2015,71,Russian Grand Prix,Sochi Autodrom
+942,2015,69,United States Grand Prix,Circuit of the Americas
+943,2015,32,Mexican Grand Prix,Autódromo Hermanos Rodríguez
+944,2015,18,Brazilian Grand Prix,Autódromo José Carlos Pace
+945,2015,24,Abu Dhabi Grand Prix,Yas Marina Circuit
+948,2016,1,Australian Grand Prix,Albert Park Grand Prix Circuit
+949,2016,3,Bahrain Grand Prix,Bahrain International Circuit
+950,2016,17,Chinese Grand Prix,Shanghai International Circuit
+951,2016,71,Russian Grand Prix,Sochi Autodrom
+952,2016,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya
+953,2016,6,Monaco Grand Prix,Circuit de Monaco
+954,2016,7,Canadian Grand Prix,Circuit Gilles Villeneuve
+955,2016,73,European Grand Prix,Baku City Circuit
+956,2016,70,Austrian Grand Prix,Red Bull Ring
+957,2016,9,British Grand Prix,Silverstone Circuit
+958,2016,11,Hungarian Grand Prix,Hungaroring
+959,2016,10,German Grand Prix,Hockenheimring
+960,2016,13,Belgian Grand Prix,Circuit de Spa-Francorchamps
+961,2016,14,Italian Grand Prix,Autodromo Nazionale di Monza
+962,2016,15,Singapore Grand Prix,Marina Bay Street Circuit
+963,2016,2,Malaysian Grand Prix,Sepang International Circuit
+964,2016,22,Japanese Grand Prix,Suzuka Circuit
+965,2016,69,United States Grand Prix,Circuit of the Americas
+966,2016,32,Mexican Grand Prix,Autódromo Hermanos Rodríguez
+967,2016,18,Brazilian Grand Prix,Autódromo José Carlos Pace
+968,2016,24,Abu Dhabi Grand Prix,Yas Marina Circuit
